@@ -4,6 +4,10 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6686554194274006a8f8ec3122b46902)](https://www.codacy.com/app/freetnt5852/LadyBug-Bot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=freetnt5852/LadyBug-Bot&amp;utm_campaign=Badge_Grade)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
+This is the v2 JavaScript version of Ladybug Bot, the v1 was in Python (see [ladybug-archive-py](https://github.com/pollen5/ladybug-archive-py)) Nowdays it is in Golang and has been renamed see [Aisaka Taiga](https://github.com/pollen5/taiga)
+
+This code is archived for historical and eductional purposes, feel free to take anything you want from here but don't ask for help, it is outdated and behind breaking changes from libraries used and therefore may not run as is.
+
 A fun multipurpose [Discord](https://discordapp.com) Bot written using the [Klasa](https://klasa.js.org) framework for [discord.js](https://discord.js.org)
 
 This repository contains the always up to date code for the bot so you can contribute if you want. If you just want to use the bot [invite link](https://discordapp.com/oauth2/authorize?client_id=397796982120382464&permissions=1345350758&scope=bot)
